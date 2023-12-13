@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Allow: https://www.necojobs.com.np/sitemap.xml
